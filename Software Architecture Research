@@ -1,0 +1,33 @@
+Software Architecture Research
+https://isr.uci.edu/architecture/research.html
+
+We believe that software architecture is a discipline pervading all phases of development. 
+Our research focuses on issues related to the integration of software architecture into the development process.
+
+Below are phases of a generic software life-cycle model and how an architecture may be used in each phase. 
+
+Included are links to different views of our research corresponding to architecture-based uses in each phase:
+
+During requirements, an architecture may be used to identify, prioritize, and record system concerns and desired qualities.
+
+During design, analysis, an architecture may be used to model, visualize, and analyze design decisions chosen to address 
+the principal concerns and achieve the desired qualities. Decisions may be guided by adopting one or more architectural styles.
+
+During implementation, testing, an architecture may be used to drive testing, instantiate a product, support runtime dynamism, 
+or enforce security policies. Rather than thrown out an architecture at this point, as is often done, an architecture remains part of the product.
+
+During maintenance, an architecture may be used as a basis for incorporating new features, or increasing modeling detail.
+
+We also maintain a number of different software projects where we apply our research to real systems.
+
+
+
+
+
+
+
+
+
+
+
+
