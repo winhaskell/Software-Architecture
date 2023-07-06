@@ -1,0 +1,33 @@
+Software Architecture Overview
+https://isr.uci.edu/architecture/overview.html
+
+UCI's approach to software architecture asserts that architecture is not just a phase or an activity in the software development life cycle, 
+but a discipline pervading all phases of development. We define architecture as the set of principal design decisions about a system; 
+what is principal depends on the concerns of the stakeholders involved and will likely vary from architecture to architecture. 
+We believe that integrating the discipline of architecture into the development process has the potential to increase the quality of 
+software produced while reducing both the costs of development and the time to market.
+
+To effectively utilize software architectures, our vision is that an architect is able to:
+
+write them down - codify design decisions, provide machine-readable design artifacts,
+visualize them - increase communication and understanding, provide different perspectives for inspection and interaction,
+analyze them - (automatically) check for and repair defects, determine whether the designed system has the desired qualities,
+evolve them - increase modeling detail, capture more information, more products, address maintenance issues, and
+apply them - to real systems, addressing their principal needs, maintaining traceability between the architecture and the product.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
